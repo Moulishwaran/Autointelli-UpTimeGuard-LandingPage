@@ -1,0 +1,130 @@
+.Card {
+    display: flex;
+    position: relative;
+    top: 350px;
+    left: 220px;
+}
+
+.PortCards {
+    background-color: #ffffff;
+    width: 390px;
+    height: 490px;
+    border-radius: 20px;
+    position: relative;
+    right: 20px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+}
+
+.PortCards-Ping {
+    background-color: #ffffff;
+    width: 390px;
+    height: 490px;
+    border-radius: 20px;
+    position: relative;
+    left: 5px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+}
+
+.PortCard-Key {
+    background-color: #ffffff;
+    width: 400px;
+    height: 490px;
+    border-radius: 20px;
+    position: relative;
+    left: 20px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+}
+
+.PortCard-Icon {
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+
+.PortCard-Title {
+    position: relative;
+    left: 50px;
+    top: 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 33px;
+}
+
+.PortCard-Description {
+    position: relative;
+    top: 15px;
+    left: 50px;
+    font-size: 21px;
+    font-family: "Roboto", sans-serif;
+    color: gray;
+    line-height: 28px;
+}
+
+.Portcard-Btn {
+    position: relative;
+    top: 28px;
+    left: 50px;
+    background-color: #27c6f4;
+    color: #ffffff;
+    border: none;
+    height: 50px;
+    width: 200px;
+    font-size: 18px;
+    border-radius: 70px;
+    cursor: pointer;
+}
+
+.Portcard-PingBtn {
+    position: relative;
+    top: 56px;
+    left: 50px;
+    background-color: #27c6f4;
+    color: #ffffff;
+    border: none;
+    height: 50px;
+    width: 250px;
+    font-size: 18px;
+    border-radius: 70px;
+    cursor: pointer;
+}
+
+.Portcard-PingBtn:hover {
+    background-color: white;
+    border: 2px solid #27c6f4;
+    color: #27c6f4;
+}
+
+.Portcard-KeyWordBtn {
+    position: relative;
+    top: 28px;
+    left: 50px;
+    background-color: #27c6f4;
+    color: #ffffff;
+    border: none;
+    height: 50px;
+    width: 250px;
+    font-size: 18px;
+    border-radius: 70px;
+    cursor: pointer;
+}
+
+.Portcard-KeyWordBtn:hover {
+    background-color: white;
+    border: 2px solid #27c6f4;
+    color: #27c6f4;
+}
+
+.Portcard-Btn:hover {
+    background-color: white;
+    border: 2px solid #27c6f4;
+    color: #27c6f4;
+}
+
+.PortCard-Ping {
+    position: relative;
+    left: 30px;
+}
+
+.PortCard-keyword {
+    position: relative;
+    left: 60px;
+}

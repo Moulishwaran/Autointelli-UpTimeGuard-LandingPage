@@ -1,0 +1,125 @@
+.Navbar {
+    background-color: #001d36;
+    width: 1800px;
+    height: 100px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 9999;
+}
+
+.Navbar-LogoName {
+    display: flex;
+    position: relative;
+    left: 140px;
+    padding: 12px;
+    bottom: 1px;
+}
+
+.navbar-LogoImage {
+    width: 65px;
+    height: 65px;
+    position: relative;
+    top: 6px;
+}
+
+.navbar-Logotitle {
+    font-size: 32px;
+    position: relative;
+    bottom: 8px;
+    left: 10px;
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+}
+
+.Navbar-Menu-List {
+    position: relative;
+    left: 380px;
+    bottom: 86px;
+}
+
+.Navbar-Letters {
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+    text-align: center;
+    padding-left: 5px;
+    list-style: none;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.Navbar-Monitering-icon {
+    color: gray;
+    position: relative;
+    top: 3px;
+    cursor: pointer;
+}
+
+.Navbar-Monitering:hover {
+    color: #27c6f4;
+    cursor: pointer;
+}
+
+.Navbar-Integration {
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.Navbar-Integration:hover {
+    color: #27c6f4;
+    cursor: pointer;
+}
+
+.Navbar-Status {
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.Navbar-Status:hover {
+    color: #27c6f4;
+    cursor: pointer;
+}
+
+.Navbar-Login {
+    position: relative;
+    left: 1150px;
+    bottom: 135px;
+}
+
+.Navbar-Login-Btn {
+    border: none;
+    background-color: #001d36;
+    color: #ffffff;
+    font-size: 20px;
+    position: relative;
+    bottom: 12px;
+    cursor: pointer;
+}
+
+.Navbar-Login-Btn:hover {
+    color: #27c6f4;
+}
+
+.Navbar-Register-Free {
+    position: relative;
+    left: 40px;
+    bottom: 12px;
+    height: 40px;
+    width: 180px;
+    background-color: #27c6f4;
+    color: #ffffff;
+    font-size: 15px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.Navbar-Register-Free:hover {
+    background-color: #388ba2;
+}

@@ -1,0 +1,131 @@
+.Advance-Features {
+    position: relative;
+    top: 450px;
+    left: 720px;
+}
+
+.Feature-Item-Btn {
+    width: 330px;
+    height: 50px;
+    background-color: #27c6f4;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.Feature-Item-Btn:hover {
+    background-color: #ffffff;
+    color: #27c6f4;
+    border: 2px solid #27c6f4;
+}
+
+.Feature-Item-Heading {
+    position: relative;
+    top: 60px;
+    right: 80px;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif
+}
+
+.Featured-Advance,
+.Featured-Dot {
+    color: #27c6f4;
+}
+
+.Advance-Featured-Details {
+    position: relative;
+    right: 480px;
+    top: 70px;
+}
+
+.Advance-incedent {}
+
+.Advance-incedent-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Advance-incedent-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+
+.Advance-window-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Advance-window-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+
+.Advance-WhiteLabel {}
+
+.Advance-White-Detail {
+    position: relative;
+    bottom: 200px;
+    right: 40px;
+}
+
+.Advance-whiteLabel-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Advance-whiteLabel-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+
+.Advance-Custom {
+    margin-top: 40px;
+}
+
+.Advance-Custon-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Advance-Custom-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+
+.Advance-Response {
+    position: relative;
+    bottom: 480px;
+    left: 430px;
+}
+
+.Advance_response-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Advance-Response-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+
+.Advance-Location {
+    margin-top: 38px;
+}
+
+.Advance-Location-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Advance-Location-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+}

@@ -1,0 +1,127 @@
+body {
+    overflow-x: hidden;
+    background-color: whitesmoke;
+
+}
+
+.MainContent {
+    position: relative;
+    background-color: #001d36;
+    top: 50px;
+    width: 1800px;
+    height: 800px;
+    right: 10px;
+
+}
+
+.MainContent-Leading {
+    position: relative;
+    left: 150px;
+    top: 180px;
+    font-size: 50px;
+    color: #ffffff;
+    line-height: 70px;
+    font-family: "Roboto", sans-serif;
+}
+
+.MainContent-span {
+    color: #27c6f4;
+}
+
+.mainContent-Dot {
+    color: #27c6f4;
+}
+
+.MainContent-FreeContent {
+    position: relative;
+    top: 200px;
+    left: 150px;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+}
+
+.MainContent-Total {
+    color: #27c6f4;
+    border-radius: 50px;
+}
+
+.Monitering-Button {
+    position: relative;
+    top: 220px;
+    left: 150px;
+    height: 50px;
+    width: 300px;
+    font-size: 17px;
+    background-color: #27c6f4;
+    border-radius: 50px;
+    border: none;
+    color: #0c0303;
+    cursor: pointer;
+}
+
+.MainContent-Title-Right {
+    position: relative;
+    left: 760px;
+    bottom: 240px;
+}
+
+.MainContent-MonitorCount {
+    position: relative;
+    right: 450px;
+    font-family: "Roboto", sans-serif;
+    color: gray;
+}
+
+.MainContent-Monitor-Number {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.MainContent-Company-Images {
+    position: relative;
+    bottom: 100px;
+    right: 120px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.MainContent-Company {}
+
+.MainContent-GodaddyLogo {
+    width: 160px;
+    position: relative;
+    bottom: 20px;
+    right: 270px;
+
+}
+
+.MainContent-NasaLogo {
+    width: 120px;
+    position: relative;
+    right: 150px;
+}
+
+.MainContent-MoodysLogo {
+    width: 150px;
+    height: 40px;
+    position: relative;
+    right: 50px;
+    bottom: 19px;
+}
+
+.MainContent-IBMLogo {
+    width: 130px;
+    position: relative;
+    left: 100px;
+    bottom: 12px;
+    height: 40px;
+}
+
+.MainContent-ExpediaLogo {
+    width: 160px;
+    height: 60px;
+    position: relative;
+    left: 200px;
+    bottom: 5px;
+}

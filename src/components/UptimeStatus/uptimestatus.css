@@ -1,0 +1,100 @@
+.UptimeStatus-All {
+    position: relative;
+    top: 1500px;
+}
+
+.UptimeStatus-Page {
+    position: relative;
+    bottom: 1100px;
+    left: 150px;
+}
+
+.UptimeStats-Heading {
+    font-size: 60px;
+    font-family: "Roboto", sans-serif;
+    line-height: 70px;
+}
+
+.UptimeStaus-text {
+    color: rgb(38, 170, 38);
+}
+
+.UptimeStats-Text {
+    color: gray;
+    font-size: 20px;
+    line-height: 35px;
+    font-family: "Roboto", sans-serif;
+}
+
+.UptimeStats-Buttons {
+    display: flex;
+}
+
+.UptimeStats {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(38, 170, 38);
+    cursor: pointer;
+}
+
+.UptimeStats-OR {
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.UptimeStats-Explore {
+    margin-left: 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(38, 170, 38);
+    cursor: pointer;
+}
+
+.UptimeStatus-Page-Image {
+    position: relative;
+    bottom: 815px;
+    left: 350px;
+}
+
+.UptimeStatus-Page-Image {
+    height: 550px;
+    border-radius: 10px;
+}
+
+.Team-members {
+    position: relative;
+    left: 150px;
+    bottom: 1550px;
+}
+
+.SubusersImage {
+    height: 450px;
+}
+
+.Team-Members-Para {
+    position: relative;
+    left: 550px;
+    bottom: 400px;
+}
+
+.Team-Members-Title {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+
+}
+
+.Member-Span {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    color: rgb(38, 170, 38);
+    font-weight: 600
+}
+
+.Team-Members-Text {
+    font-size: 23px;
+    font-family: "Roboto", sans-serif;
+}

@@ -1,0 +1,139 @@
+.Monitored {
+    position: relative;
+    left: 700px;
+    top: 260px;
+}
+
+.Monitored-Title {
+    position: relative;
+    right: 220px;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    line-height: 55px;
+    letter-spacing: 2px;
+}
+
+.Monitored-Really {
+    color: #27c6f4;
+}
+
+.Monitored-Dot {
+    color: #27c6f4;
+    position: relative;
+    left: 20px;
+}
+
+.Monitored-Content-Top {
+    display: flex;
+    position: relative;
+    left: 90px;
+}
+
+.Monitored-Separator {
+    position: relative;
+    left: 30px;
+}
+
+.Monitored-card {
+    background-color: #ffffff;
+    width: 600px;
+    height: 390px;
+    position: relative;
+    right: 580px;
+    border-radius: 20px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+}
+
+.CardWebSite-Icon {
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+
+.Card-Monitoring-Title {
+    position: relative;
+    left: 50px;
+    top: 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 33px;
+}
+
+.Card-Website-Description {
+    position: relative;
+    top: 15px;
+    left: 50px;
+    font-size: 21px;
+    font-family: "Roboto", sans-serif;
+    color: gray;
+}
+
+.Card-Website-Btn {
+    position: relative;
+    top: 28px;
+    left: 50px;
+    background-color: #27c6f4;
+    color: #ffffff;
+    border: none;
+    height: 50px;
+    width: 250px;
+    font-size: 18px;
+    border-radius: 70px;
+    cursor: pointer;
+
+}
+
+.Card-Website-Btn:hover {
+    background-color: white;
+    border: 2px solid #27c6f4;
+    color: #27c6f4;
+}
+
+
+.Monitored-Content-Bottom {
+    position: relative;
+    top: 30px;
+
+}
+
+.MonitoredCards-Head {
+    display: flex;
+}
+
+.Monitored-Cards {
+    background-color: #ffffff;
+    width: 600px;
+    height: 390px;
+    position: relative;
+    right: 510px;
+    border-radius: 20px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+}
+
+.MonitoredCards-Title {
+    position: relative;
+    left: 50px;
+    top: 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 33px;
+}
+
+.MonitoredCards-Description {
+    position: relative;
+    top: 15px;
+    left: 50px;
+    font-size: 21px;
+    font-family: "Roboto", sans-serif;
+    color: gray;
+}
+
+
+.Monitored-Content-Bottom {
+    display: flex;
+    position: relative;
+    left: 20px;
+}
+
+.Monitored-All-Bottom {
+    position: relative;
+    left: 30px;
+}

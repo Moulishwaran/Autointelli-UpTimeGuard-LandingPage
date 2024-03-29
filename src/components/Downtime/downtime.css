@@ -1,0 +1,124 @@
+.Downtime {
+    position: relative;
+    width: 1700px;
+    top: 80px;
+    background-color: #001d36;
+    height: 700px;
+    right: 10px;
+}
+
+.DownTime-Social {
+    position: relative;
+    left: 200px;
+    top: 100px;
+    line-height: 50px;
+}
+
+.DowntimeEmail {
+    position: relative;
+    bottom: 30px;
+    color: #ffff;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.DowntimeSlack {
+    position: relative;
+    bottom: 30px;
+    color: #ffff;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.DowntimeWebhooks {
+    position: relative;
+    bottom: 30px;
+    color: #ffff;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.DownTimeIcons {
+    position: relative;
+    bottom: 407px;
+    left: 450px;
+    line-height: 50px;
+}
+
+.DownTimeIcon-SMS {
+    position: relative;
+    bottom: 32px;
+    color: #ffff;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.DownTimeIcon-Right {
+    position: relative;
+    bottom: 512px;
+    left: 230px;
+    line-height: 50px;
+}
+
+.Downtime-Call-text {
+    position: relative;
+    bottom: 32px;
+    color: #ffff;
+    font-size: 19px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Downtime-Call-Team {
+    position: relative;
+    bottom: 32px;
+    right: 30px;
+    color: #ffff;
+    font-size: 19px;
+    font-family: "Roboto", sans-serif;
+}
+
+
+.DownTime-Right {
+    position: relative;
+    left: 1000px;
+    bottom: 1450px;
+}
+
+.DownTime-GetNotified {
+    color: #ffffff;
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+    line-height: 65px;
+
+}
+
+.DownTime-Notified {
+    color: rgb(0, 255, 0);
+    font-size: 50px;
+}
+
+.DownTime-Dot {
+    color: rgb(0, 255, 0);
+}
+
+.DownTime-Description {
+    font-size: 22px;
+    color: #ffffff;
+    line-height: 34px;
+    font-family: "Roboto", sans-serif;
+}
+
+.DownTime-Integrations {
+    position: relative;
+    top: 20px;
+    color: #ffff;
+    text-decoration: underline;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.DownTime-Integrations:hover {
+    color: rgb(0, 255, 0);
+}

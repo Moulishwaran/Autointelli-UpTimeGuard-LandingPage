@@ -1,0 +1,127 @@
+.Footer {
+    background-color: #001d36;
+    height: 610px;
+    position: relative;
+    bottom: 100px;
+    width: 1800px;
+    right: 9px;
+}
+
+.FooterLeft {
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+
+.FooterCompanyLogo {
+    height: 60px;
+}
+
+.Footer-Company-Title {
+    position: absolute;
+    top: -25px;
+    left: 70px;
+    font-family: "Roboto", sans-serif;
+    color: whitesmoke;
+    font-size: 35px;
+}
+
+.Footer-Company-Notified {
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+.Footer-Company-Address {
+    color: white;
+    line-height: 25px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Footer-Social-icon {
+    color: #ffffff;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.Footer-TwitterIcon {
+    position: relative;
+    left: 20px;
+}
+
+.Footer-LinkedinIcon {
+    position: relative;
+    left: 40px;
+}
+
+.Footer-DiscordIcon {
+    position: relative;
+    left: 60px;
+}
+
+.Footer-TwitterIcon:hover,
+.Footer-LinkedinIcon:hover,
+.Footer-FacebookIcon:hover,
+.Footer-DiscordIcon:hover {
+    color: gray;
+    cursor: pointer;
+}
+
+.FooterRight {
+    position: relative;
+    left: 580px;
+    bottom: 130px;
+}
+
+.Footer-Monitoring-Heading {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+}
+
+.Footer-Monitoring-List {
+    position: relative;
+    color: #ffffff;
+    list-style-type: none;
+    line-height: 40px;
+    right: 35px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Footer-Company {
+    position: relative;
+    left: 300px;
+    bottom: 360px;
+}
+
+.Footer-company-Heading {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+}
+
+.Footer-company-List {
+    position: relative;
+    color: #ffffff;
+    list-style-type: none;
+    line-height: 40px;
+    right: 35px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Footer-Resources {
+    position: relative;
+    bottom: 639px;
+    left: 600px;
+}
+
+.Footer-Resources-Heading {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+}
+
+.Footer-Resources-List {
+    position: relative;
+    color: #ffffff;
+    list-style-type: none;
+    line-height: 40px;
+    right: 35px;
+    font-family: "Roboto", sans-serif;
+}
