@@ -1,0 +1,141 @@
+.card-login-card {
+  text-align: center;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  background-color: #131a26;
+}
+
+.login-input {
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 80px;
+  padding-top: 20px;
+  width: 100%;
+  border: 1px solid rgb(237, 231, 231);
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.login-onphoto {
+  display: flex;
+  align-items: center; 
+  padding-top: 40px;
+  color: white;
+  margin-left: 60px;
+}
+
+.logo-img {
+  width: 50px; 
+  height: auto; 
+  margin-right: 10px; 
+}
+
+
+.welcome-login {
+  padding-top: 30px;
+  color: white;
+
+}
+
+.form-control {
+  width: 80%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 15px;
+  box-sizing: border-box;
+  margin-left: 30px;
+}
+
+.onsubmit {
+  width: 350px;
+  position: relative;
+}
+
+.login-submit-btn {
+  width: 80%;
+  margin-left: 30px;
+  background-color: rgb(45, 131, 45);
+  color: #FFFFFF;
+  border: none;
+}
+.login-submit-btn:hover {
+  background-color: rgb(45, 131, 45); 
+}
+
+.login-mail {
+  margin-right: 165px;
+  position: relative;
+    top: 10px;
+}
+
+.login-password {
+  margin-right: 145px;
+  position: relative;
+    top: 10px;
+}
+
+.login-terms {
+  margin-top: -35px;
+    color: gray;
+ 
+}
+
+.login-lost {
+  margin-top: 20px;
+}
+
+.login-anchor {
+  color: #77ec02;
+  margin-right: 40px;
+
+}
+.login-remember p {
+margin-bottom: 40px;
+  margin-left: 30px;
+
+ 
+}
+.login-anchor:hover,
+.login-anchorjoin:hover {
+  text-decoration: underline;
+}
+.login-uptime{
+  color: rgb(57, 135, 201);
+  margin-top: 20px;
+}
+.login-remember{
+ 
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    position: relative;
+}
+.login-remember label {
+  margin-bottom: 0;
+  margin-left: 30px;
+  margin-top: -25px;
+
+}
+
+.login-anchorjoin {
+  color: #77ec02;
+}
+.login-required {
+  position: relative;
+  top: -10px;
+  padding-right: 130px; 
+  background-color: #ebdddd;
+
+}
+
+.login-requiredpassword{
+  padding-right: 105px;
+  --bs-text-opacity: 1;
+    color: rgba(var(--bs-danger-rgb), var(--bs-text-opacity)) !important;
+    position: relative;
+    top: -12px;
+    background-color: #ebdddd;
+}

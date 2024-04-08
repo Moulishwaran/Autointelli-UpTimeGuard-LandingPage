@@ -1,0 +1,42 @@
+.Integration-DownTime {
+    background-color: #001d36;
+    height: 500px;
+    width: 1750px;
+    position: relative;
+    top: 65px;
+    right: 10px;
+}
+
+.Integration-Heading {
+    position: relative;
+    left: 650px;
+    top: 140px;
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+    line-height: 70px;
+}
+
+.Integration-Get-Notified {
+    position: relative;
+    left: 100px;
+    color: rgb(0, 255, 0);
+}
+
+.Integration-Dot {
+    color: rgb(0, 255, 0);
+}
+
+.Integration-Description {
+    position: relative;
+    left: 550px;
+    top: 180px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Footer-Integration {
+    position: relative;
+    bottom: 900px;
+}

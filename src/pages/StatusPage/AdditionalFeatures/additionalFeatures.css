@@ -1,0 +1,71 @@
+.Additional-Features-Heading {
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+}
+
+.Features {
+    color: #2bcd63;
+}
+
+.Feature-Paragraph {
+    position: relative;
+    top: 20px;
+    color: gray;
+}
+
+.Featured-Card {
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Featured-Card-Detail {
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+    background-color: #ffffff;
+    width: 400px;
+    height: 500px;
+}
+
+.Featured-Card-Detail-Icon {
+    position: relative;
+    top: 50px;
+    left: 55px;
+}
+
+.Featured-API-Title {
+    position: relative;
+    top: 50px;
+    left: 55px;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Featured-Para-Desc {
+    font-size: 23px;
+    line-height: 30px;
+    color: gray;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    left: 55px;
+    top: 50px;
+}
+
+.Featured-Right {
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+
+.GetFree-Button {
+    height: 60px;
+    width: 300px;
+    font-size: 20px;
+    background-color: #2bcd63;
+    border: none;
+    border-radius: 50px;
+    color: #ffffff;
+    cursor: pointer;
+}

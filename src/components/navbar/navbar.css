@@ -26,11 +26,13 @@
 .navbar-Logotitle {
     font-size: 32px;
     position: relative;
-    bottom: 8px;
+    top: 15px;
     left: 10px;
     color: #ffffff;
     font-family: "Roboto", sans-serif;
     cursor: pointer;
+    text-decoration: none;
+
 }
 
 .Navbar-Menu-List {
@@ -44,7 +46,7 @@
     align-items: center;
     position: relative;
     left: 200px;
-    bottom: 10px;
+    top: 8px;
     text-align: center;
     padding-left: 5px;
     list-style: none;
@@ -52,6 +54,13 @@
     font-size: 20px;
     font-family: "Roboto", sans-serif;
 
+}
+
+.Navbar-Monitering {
+    margin-left: 40px;
+    cursor: pointer;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .Navbar-Monitering-icon {
@@ -69,6 +78,8 @@
 .Navbar-Integration {
     margin-left: 40px;
     cursor: pointer;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .Navbar-Integration:hover {
@@ -79,6 +90,8 @@
 .Navbar-Status {
     margin-left: 40px;
     cursor: pointer;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .Navbar-Status:hover {
@@ -98,8 +111,10 @@
     color: #ffffff;
     font-size: 20px;
     position: relative;
-    bottom: 12px;
+    top: 6px;
     cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
 }
 
 .Navbar-Login-Btn:hover {
@@ -109,7 +124,6 @@
 .Navbar-Register-Free {
     position: relative;
     left: 40px;
-    bottom: 12px;
     height: 40px;
     width: 180px;
     background-color: #27c6f4;

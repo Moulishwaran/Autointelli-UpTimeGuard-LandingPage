@@ -1,0 +1,72 @@
+.Status-Page-background {
+    background-color: #001d36;
+    height: 700px;
+    width: 1750px;
+    position: relative;
+    top: 50px;
+    right: 10px;
+}
+
+.StatusPage {
+    position: relative;
+    top: 180px;
+    left: 190px;
+}
+
+.Status-Title {
+    font-family: "Roboto", sans-serif;
+    font-size: 60px;
+    color: white;
+}
+
+.Status-Page-Color {
+    color: rgb(0, 255, 0);
+}
+
+.Status-Share-Incidents {
+    font-size: 25px;
+    letter-spacing: 1px;
+    line-height: 35px;
+    font-family: "Roboto", sans-serif;
+    color: white;
+}
+
+.Status-Btn {
+    display: flex;
+    margin-top: 50px;
+}
+
+.Status-Share-Button {
+    background-color: #2bcd63;
+    border: none;
+    width: 350px;
+    height: 65px;
+    font-size: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+}
+
+.Status-Share-Btn-Live-demo {
+    margin-left: 70px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #2bcd63;
+    font-family: "Roboto", sans-serif;
+    text-decoration: underline;
+}
+
+.Status-Page-Image {
+    position: relative;
+    bottom: 500px;
+    left: 940px;
+}
+
+.Status-Circle-Image {
+    border-radius: 20px;
+}
+
+.Footer-Background-Status {
+    position: relative;
+    top: 650px;
+}

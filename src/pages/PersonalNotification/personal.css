@@ -1,0 +1,172 @@
+.Personal {
+    position: relative;
+    top: 150px;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    background-color: whitesmoke;
+}
+
+.Personal-Color,
+.Personal-Dot {
+    color: rgb(0, 255, 0);
+    letter-spacing: 2px;
+}
+
+.Personal-Card {
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+    border-radius: 10px;
+    position: relative;
+    left: 100px;
+}
+
+.Personal-Cards {
+    position: relative;
+    top: 50px;
+}
+
+.Personal-Email-Icon {
+    font-size: 80px;
+    position: relative;
+    top: 40px;
+}
+
+.Personal-Email-Text {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    top: 15px;
+    font-size: 22px;
+}
+
+.Personal-Card2 {
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+    border-radius: 10px;
+    position: relative;
+    left: 390px;
+    bottom: 200px;
+}
+
+.Personal-SMS-Icon {
+    font-size: 80px;
+    position: relative;
+    top: 40px;
+}
+
+.Personal-SMS-Text {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    top: 15px;
+    font-size: 22px;
+}
+
+.Personal-Card3 {
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+    border-radius: 10px;
+    position: relative;
+    left: 680px;
+    bottom: 400px;
+}
+
+.Personal-VoiceCall-Icon {
+    font-size: 80px;
+    position: relative;
+    top: 40px;
+}
+
+.Personal-VoiceCall-Text {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    top: 15px;
+    font-size: 22px;
+}
+
+.Personal-Card-section4 {
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+    border-radius: 10px;
+    position: relative;
+    left: 980px;
+    bottom: 600px;
+}
+
+.Personal-Email-SMS-Icon {
+    font-size: 80px;
+    position: relative;
+    top: 40px;
+}
+
+.Personal-Email-SMS-Text {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    top: 15px;
+    font-size: 22px;
+}
+
+.Personal-Card-section5 {
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+    border-radius: 10px;
+    position: relative;
+    left: 1300px;
+    bottom: 800px;
+}
+
+.Personal-mobileapp-Icon {
+    font-size: 80px;
+    position: relative;
+    top: 40px;
+}
+
+.Personal-mobileapp-Text {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    top: 15px;
+    font-size: 22px;
+}
+
+.PersonalNotify {
+    position: relative;
+    bottom: 670px;
+    right: 20px;
+}
+
+.PersonalNotify-Heading {
+    font-size: 40px;
+    letter-spacing: 2px;
+
+}
+
+.Personal-span-color,
+.Stay-Dot {
+    color: rgb(0, 255, 0);
+}
+
+.Personal-Download {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+
+.GoogleIcons {
+    height: 40px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.AppleIcons {
+    cursor: pointer;
+}
+
+.ThirdParty {}

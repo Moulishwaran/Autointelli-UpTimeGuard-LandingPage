@@ -1,0 +1,209 @@
+.Status-Page-Need {
+    position: relative;
+    bottom: 250px;
+    text-align: center;
+}
+
+.Status-Paging-Heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+}
+
+.Status-Paging-Heading-color {
+    color: green;
+}
+
+.Status-Paging-list {
+    display: flex;
+    position: relative;
+    right: 70px;
+}
+
+.Status-Paging-list-ResHeading {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    left: 140px;
+    bottom: 67px;
+    font-size: 30px;
+}
+
+.Status-Paging-list-ResPara {
+    position: relative;
+    left: 200px;
+    bottom: 60px;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+    color: gray;
+}
+
+.Status-Paging-list-Response2 {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    left: 130px;
+}
+
+.Status-Paging-list-Response3 {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    left: 400px;
+}
+
+.Status-Paging-list-ResPara2 {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    color: gray;
+    bottom: 60px;
+    font-size: 25px;
+    left: 190px;
+}
+
+.Status-Paging-list-ResHeading3 {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    left: 70px;
+    bottom: 67px;
+    font-size: 30px;
+}
+
+.Status-Paging-Icons {
+    position: relative;
+    right: 100px;
+}
+
+.Status-Paging-list-ResPara3 {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    color: gray;
+    bottom: 60px;
+    font-size: 25px;
+    left: 80px;
+}
+
+.Status-Paging-All {
+    position: relative;
+    right: 50px;
+    line-height: 30px;
+}
+
+.Status-Paging-Password {
+    position: relative;
+    right: 130px;
+}
+
+.Status-Paging-list2 {
+    display: flex;
+    position: relative;
+    left: 140px;
+
+}
+
+.Status-Paging-list-All {
+    display: flex;
+}
+
+.Status-Paging-Announce-content {
+    position: relative;
+    right: 190px;
+}
+
+.Status-Paging-Announce-title {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    left: 150px;
+    bottom: 67px;
+    font-size: 30px;
+}
+
+.Status-Paging-Maintain {
+    margin-left: 20px;
+}
+
+.Status-Paging-Announce-Paragraph {
+    position: relative;
+    bottom: 70px;
+    left: 160px;
+    font-size: 25px;
+    line-height: 30px;
+    color: gray;
+    font-family: "Roboto", sans-serif;
+}
+
+.Status-Paging-Analytics {
+    position: relative;
+    left: 150px;
+}
+
+.Status-Paging-Decide {
+    position: relative;
+    left: 710px;
+}
+
+.Status-Paging-Analytics-Icon {
+    position: relative;
+    right: 200px;
+}
+
+.Status-Paging-Analytics-Title {
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    right: 15px;
+    bottom: 67px;
+    font-size: 30px;
+}
+
+.Status-Paging-Analytics-Para {
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+    font-size: 25px;
+    line-height: 32px;
+    color: gray;
+    font-family: "Roboto", sans-serif;
+}
+
+.Status-Paging-Analytics-Para2 {
+    margin-right: 80px;
+}
+
+.Status-Paging-Decide {
+    left: 60px;
+}
+
+.DecidedIcon {}
+
+.Status-Paging-Decide-Content-Heading {
+    position: relative;
+    left: 180px;
+    bottom: 65px;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Status-Paging-Decide-Content-Para {
+    position: relative;
+    left: 170px;
+    bottom: 70px;
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+    line-height: 30px;
+    color: gray;
+}
+
+.Status-Paging-Decide-Content-Para3 {
+    margin-right: 135px;
+}
+
+.Free-Button {
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    border: none;
+    background-color: #2bcd63;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.Free-Button:hover {
+    background-color: green;
+}

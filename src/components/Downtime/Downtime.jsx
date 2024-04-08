@@ -64,6 +64,7 @@ const Downtime = () => {
           </div>
         </div>
       </div>
+
       <div className="DownTime-Right">
         <div className="DownTime-Right-Text">
           <h2 className="DownTime-GetNotified">

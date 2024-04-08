@@ -1,0 +1,160 @@
+.ThirdParty-Party-background {
+    display: flex;
+    margin-left: 170px;
+}
+
+
+.Third-Slack {
+    background-color: white;
+    width: 280px;
+    height: 200px;
+    position: relative;
+    bottom: 500px;
+    margin-left: 40px;
+    border-radius: 10px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+    cursor: pointer;
+}
+
+.slackIcon {
+    position: relative;
+    top: 40px;
+}
+
+.Slack-Text {
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+
+.ZapierIcon {
+    position: relative;
+    top: 40px;
+}
+
+.Zapier-Text {
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+
+.pagerIcon {
+    position: relative;
+    top: 40px;
+}
+
+.PagerDuty-Text {
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+
+.Splunk-Text {
+    position: relative;
+    bottom: 40px;
+    font-size: 25px;
+}
+
+.Third-Slack2 {
+    background-color: white;
+    width: 280px;
+    height: 200px;
+    position: relative;
+    bottom: 465px;
+    left: 170px;
+    margin-left: 40px;
+    border-radius: 10px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+    cursor: pointer;
+}
+
+.Third-Party-Background2 {
+    display: flex;
+}
+
+.Telegram-Icons {
+    position: relative;
+    top: 40px;
+}
+
+.Telegram-Text {
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+
+.WebHooks-Icons {
+    position: relative;
+    top: 40px;
+}
+
+.WebHook_text {
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+
+.Discord-Icons {
+    position: relative;
+    top: 40px;
+}
+
+.Discord-Text {
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+
+.Pushbullet-Icons {
+    position: relative;
+    top: 40px;
+}
+
+.PushBullet-Text {
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+
+.Third-Party-Background3 {
+    display: flex;
+}
+
+.Third-Slack3 {
+    background-color: white;
+    width: 280px;
+    height: 200px;
+    position: relative;
+    bottom: 420px;
+    left: 170px;
+    margin-left: 40px;
+    border-radius: 10px;
+    box-shadow: 100px 100px 100px 100px whitesmoke;
+    cursor: pointer;
+}
+
+.Microsoft-Icon {
+    position: relative;
+    top: 40px;
+}
+
+.MicorSoft-Text {
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+
+.Google-Text,
+.Pusher-Text,
+.question-Text {
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+
+.PusherIcon,
+.Google-Icons,
+.QueationIcon {
+    position: relative;
+    top: 40px;
+}

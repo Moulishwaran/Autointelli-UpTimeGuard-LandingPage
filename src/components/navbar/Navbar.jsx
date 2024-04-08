@@ -3,6 +3,7 @@ import React from "react";
 import LogoImage from "../../assets/favicon.ico";
 import "./navbar.css";
 import { MdKeyboardArrowDown } from "react-icons/md";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
@@ -10,7 +11,9 @@ const Navbar = () => {
       <nav className="Navbar-Content">
         <div className="Navbar-LogoName">
           <img className="navbar-LogoImage" src={LogoImage} alt="ss" />
-          <h2 className="navbar-Logotitle">Uptime Guard</h2>
+          <Link to={"/"} className="navbar-Logotitle">
+            Uptime Guard
+          </Link>
         </div>
         <div className="Navbar-Menu-List">
           <ul className="Navbar-Letters">
@@ -18,13 +21,17 @@ const Navbar = () => {
               Monitering
               <MdKeyboardArrowDown className="Navbar-Monitering-icon" />
             </li>
-            <li className="Navbar-Integration">Integrations</li>
-            <li className="Navbar-Status">Status Page</li>
+            <Link to={"/integration"} className="Navbar-Integration">
+              Integrations
+            </Link>
+            <Link to={"/status-page"} className="Navbar-Status">
+              Status Page
+            </Link>
           </ul>
         </div>
 
         <div className="Navbar-Login">
-          <button className="Navbar-Login-Btn">Log In</button>
+          <Link className="Navbar-Login-Btn">Log In</Link>
           <button className="Navbar-Register-Free">Register For Free</button>
         </div>
       </nav>

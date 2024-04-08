@@ -8,13 +8,6 @@ import GoDaddyLogo from "../../assets/godaddy-logo.svg";
 import IBMLogo from "../../assets/ibm-logo.svg";
 import NASALogo from "../../assets/nasa.svg";
 import Moodys from "../../assets/moodys-logo.svg";
-import Monitored from "../Monitered/Monitored";
-import Card from "../MonitorCard/Card";
-import Downtime from "../Downtime/Downtime";
-import Footer from "../Footer/Footer";
-import KeepUpTime from "../KeepUpTime/KeepUpTime";
-import UptimeStatus from "../UptimeStatus/UptimeStatus";
-import FreeAccount from "../FreeAccount/FreeAccount";
 
 const MainContent = () => {
   return (

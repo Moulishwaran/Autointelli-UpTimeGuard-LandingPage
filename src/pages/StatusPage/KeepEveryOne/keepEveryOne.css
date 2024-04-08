@@ -1,0 +1,119 @@
+.KeppEveryOne {
+    position: relative;
+    bottom: 150px;
+    text-align: center;
+}
+
+.KeepEveryOne-Heading {
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+}
+
+.KeepEveryOne-heading {
+    color: green;
+}
+
+.KeppEveryOne-Customize {
+    position: relative;
+    top: 70px;
+    right: 490px;
+}
+
+.KeppEveryOne-Customize-Heading {
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+    line-height: 60px;
+}
+
+.KeepEveryOne-Paragraph {
+    font-family: "Roboto", sans-serif;
+    font-size: 23px;
+    line-height: 31px;
+    margin-left: 10px;
+}
+
+.KeepEveryOne-recognition1 {
+    margin-right: 20px;
+}
+
+.KeepEveryOne-recognition {
+    margin-right: 75px;
+}
+
+.KeppEveryOne-color {
+    color: green;
+}
+
+.KeppEveryOne-branding {
+    margin-right: 150px;
+}
+
+.KeepEveryOne-recognition-background {
+    background-color: green;
+    width: 100px;
+}
+
+.KeepEveryOne-recognition-Image {
+    height: 400px;
+    position: relative;
+    left: 750px;
+    bottom: 380px;
+    border-radius: 10px;
+}
+
+.KeepEveryOne-Notify {
+    background-color: green;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 250px;
+    left: 150px;
+}
+
+.Customize-Image {
+    height: 400px;
+    position: relative;
+    top: 80px;
+    left: 10px;
+}
+
+.Customize-All {
+    position: absolute;
+    left: 1100px;
+    bottom: 250px;
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+
+}
+
+.Customize-Text-Color {
+    color: green;
+}
+
+.KeepEveryOne-Notify-para {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    line-height: 34px;
+    letter-spacing: 2px
+}
+
+.KeepEveryOne-Decent {
+    margin-right: 20px;
+}
+
+.KeepEveryOne-Status {
+    margin-right: 32px
+}
+
+.KeepEveryOne-Delivery {
+    margin-right: 70px;
+}
+
+.KeepEveryOne-more {
+    margin-right: 140px;
+}
+
+.KeepEveryOne-Customers {
+    margin-right: 30px;
+}

@@ -1,0 +1,150 @@
+.ShowCase-Page {
+    position: relative;
+    bottom: 300px;
+    right: 10px;
+}
+
+.ShowCase-page-background {
+    background-color: #001d36;
+    width: 1800px;
+    height: 1700px;
+    color: white;
+}
+
+.Showcase-your-service {
+    position: relative;
+    right: 470px;
+    top: 150px;
+}
+
+.Showcase-your-service-Heading {
+    font-size: 50px;
+    line-height: 65px;
+    letter-spacing: 2px;
+}
+
+.Showcase-your-service-color {
+    color: rgb(33, 248, 33);
+}
+
+.Showcase-your-service-Text {
+    position: relative;
+    right: 30px;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.Showcase-your-service-page {
+    margin-right: 15px;
+}
+
+.Showcase-your-service-reliability {
+    margin-right: 35px;
+}
+
+.Showcase-your-service-visitors {
+    margin-right: 65px;
+}
+
+.Showcase-your-service-check {
+    margin-right: 270px;
+}
+
+.LiveShowcase-Btn {
+    position: relative;
+    top: 50px;
+    right: 58px;
+    color: #26b859;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+.ShowCase-page-Image {
+    position: relative;
+    bottom: 1580px;
+    left: 880px;
+    background-color: rgb(0, 255, 0);
+    width: 660px;
+    height: 660px;
+    border-radius: 50%;
+}
+
+.status-image {
+    position: relative;
+    top: 40px;
+    left: 20px;
+    height: 540px;
+}
+
+.status-image2 {
+    position: relative;
+    top: 40px;
+    left: 5px;
+    height: 540px;
+}
+
+.Add-Team-Member {
+    position: relative;
+    bottom: 1600px;
+    left: 160px;
+    color: white;
+    background-color: rgb(0, 255, 0);
+    width: 550px;
+    height: 550px;
+    border-radius: 50%;
+}
+
+.Add-Team-Member-container {
+    background-color: #ffffff;
+    position: relative;
+    top: 65px;
+    left: 20px;
+    height: 400px;
+    width: 650px;
+    border-radius: 20px;
+}
+
+.SubUser-Image {
+    height: 400px;
+}
+
+.Add-team-text {
+    position: relative;
+    left: 700px;
+    bottom: 400px;
+}
+
+.Add-team-title {
+    font-size: 50px;
+    line-height: 70px;
+}
+
+.Add-team-title-Color,
+.Add-team-Dot {
+    color: rgb(0, 255, 0);
+}
+
+.Add-team-title-notify {
+    margin-right: 50px;
+}
+
+.Add-team-Para {
+    position: relative;
+    right: 50px;
+    line-height: 30px;
+}
+
+.Add-team-Para-You {
+    margin-right: 40px;
+}
+
+.Add-team-Para-You2 {
+    position: relative;
+    right: 109px;
+}
+
+.Account-Free {
+    position: relative;
+    bottom: 850px;
+}
